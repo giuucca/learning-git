@@ -10,3 +10,8 @@ if a:
 
 else:
     print(b)
+
+clancy = "tyler"
+touchbearer = "josh"
+
+print("and now i just sit in silence")
