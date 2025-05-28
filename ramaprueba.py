@@ -7,3 +7,6 @@ c = "sipirili o noporolo"
 
 if a:
     print(c)
+
+else:
+    print(b)
